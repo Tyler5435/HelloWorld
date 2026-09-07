@@ -1,0 +1,14 @@
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+C:\Users\60069935\OneDrive - Northern Regional College\01 BTEC Level 3 IT - 2026-2028\04 - Unit 4 - Programming\01 - Assignment Briefs\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll
